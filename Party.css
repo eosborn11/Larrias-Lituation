@@ -1,0 +1,44 @@
+#title{
+    font-weight: bolder;
+    color: chartreuse;
+    font-size: 35pt;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-shadow: 5px 5px 5px rgb(14, 72, 233);
+    padding-top: 25px;
+    width: 800px;
+   
+}
+
+#main{
+    background-color: black;
+    height: 800px;
+    width: 800;
+    display: flex;
+    padding: 25px;
+    background-image: url("https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/269978624_10166280120605492_7013778855128226696_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=YU9n03_c5agAX8GKWLF&_nc_ht=scontent-lga3-1.xx&oh=00_AT_hgu0iA7eQRCv_gVM1NpdtIBpGJjwcQribh12yoR690A&oe=6223FF98");
+    background-position: center;
+}
+#container{
+    
+    height: 400px;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#dinner{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+#party{
+    background-color: chartreuse;
+    height: 200px;
+    width: 200px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
